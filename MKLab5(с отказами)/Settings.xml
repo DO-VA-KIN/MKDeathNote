@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<SettingsStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Speed>200</Speed>
+  <IterationsCount>1000</IterationsCount>
+  <TimeSkip>false</TimeSkip>
+</SettingsStruct>
